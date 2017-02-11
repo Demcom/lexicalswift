@@ -1,6 +1,7 @@
 # lexicalswift
 A lexical analyser with 130 different grammars and tokens
 this is what my language looks like
+```
 imp una
 imp dos
 imp tres
@@ -75,3 +76,4 @@ Math.Elev
 }
 
 }
+```
